@@ -1,1 +1,1 @@
-# Tolaram-Internal-Knowledge-Assistant
+# Internal-Knowledge-Assistant
